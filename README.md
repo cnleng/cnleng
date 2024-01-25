@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cnleng
-- 👀 I’m interested in Kubernetes/DevOps/FinOps 
+- 👀 I’m interested in Programming/DevOps/FinOps 
 - 🌱 I’m currently learning FinOps.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: hencyr@hotmail.com
